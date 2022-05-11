@@ -4,12 +4,18 @@ description: 我的公开卡片盒，使用 HUGO 构建。
 date       : 2022-05-10T14:59:38+08:00
 lastmod    : 2022-05-10T14:59:38+08:00
 
-ContentType: 首页 # 可选值：图书、章节、指南、手册、页面、文章
+ContentType: 索引 # 可选值：图书、章节、指南、手册、页面、文章
 Sections:
-- Title: 相关内容
+- Title: 索引
   Groups:
-  - Title: 链接
+  - Title: 开发
     Links:
+    - Type: Page
+      URL : REF21
+  - Title: 知识管理
+    Links:
+    - Type: Page
+      URL : C2
     - Type: URL
       URL : https://github.com/LinkinYoung/HUGO-CardBox
       Title: HUGO-CardBox
