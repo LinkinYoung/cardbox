@@ -1,0 +1,3 @@
+[submodule "themes/CardBox"]
+	path = themes/CardBox
+	url = ../HUGO-CardBox
