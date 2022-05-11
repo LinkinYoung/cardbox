@@ -3,6 +3,7 @@ title      : "REF21C4 Cocoa Design Patterns"
 description: 介绍 Cocoa 采用的设计模式，特别是 MVC 和对象模型。
 date       : 2022-05-11T14:55:39+08:00
 lastmod    : 2022-05-11T14:55:45+08:00
+draft      : true
 
 ContentType: 章节 # 可选值：图书、章节、指南、手册、页面、文章
 Sections:

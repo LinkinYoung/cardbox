@@ -11,6 +11,8 @@ Sections:
   - Title: 开发
     Links:
     - Type: Page
+      URL : C37
+    - Type: Page
       URL : REF21
   - Title: 知识管理
     Links:
@@ -23,11 +25,12 @@ Sections:
       ContentType: 链接
 ---
 
-
+## 说明
 　　这里是卡片盒的顶级入口。所有内容都可以从这里一层层深入找到。
 
-**提示：**
-　　每张卡片都可能有不止一条访问路径。
+{{<aside tip>}}
+　　每张卡片都可能有不止一条访问路径，但是他们的 URL 是唯一的。
+{{</aside>}}
 
 ## 修订记录
 ### 2022-05-10T14:59:38+08:00
