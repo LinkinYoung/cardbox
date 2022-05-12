@@ -3,7 +3,6 @@ title      : "REF21C2 Cocoa Objects"
 description: 介绍 OC 的优势和基本用法以及 Cocoa 对象的共通行为、接口和生命周期。
 date       : 2022-05-11T14:55:09+08:00
 lastmod    : 2022-05-11T14:55:17+08:00
-draft      : true
 
 ContentType: 章节 # 可选值：图书、章节、指南、手册、页面、文章
 Sections:
@@ -26,7 +25,7 @@ Sections:
       - Type: Page # 这是一个指向首页的卡片链接。
         URL : /
 ---
-文章链接: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/WhatIsCocoa/WhatIsCocoa.html#//apple_ref/doc/uid/TP40002974-CH3-SW16
+文章链接: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaObjects/CocoaObjects.html#//apple_ref/doc/uid/TP40002974-CH4-SW31
 
 {{< aside>}}
 **文献卡片备注**
