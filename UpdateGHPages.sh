@@ -1,7 +1,7 @@
 #!/bin/zsh
 
-if [[ $(basename $(pwd)) != "docs-src" ]] {
-    echo "请在 docs-src 目录下运行此脚本。"
+if [[ $(basename $(pwd)) != "CardBox" ]] {
+    echo "请在 CardBox 目录下运行此脚本。"
     exit 1
 }
 
