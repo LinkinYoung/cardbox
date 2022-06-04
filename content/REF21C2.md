@@ -1,6 +1,6 @@
 ---
-title      : "REF21C2 Cocoa Objects"
-description: 介绍 OC 的优势和基本用法以及 Cocoa 对象的共通行为、接口和生命周期。
+title      : "Cocoa Objects"
+description: REF21C2 - 介绍 OC 的优势和基本用法以及 Cocoa 对象的共通行为、接口和生命周期。
 date       : 2022-05-12T16:10:13+08:00
 lastmod    : 2022-05-12T18:42:04+08:00
 
@@ -22,7 +22,9 @@ Sections:
         URL : REF21
     - Title: 卡片和链接
       Links:
-      - Type: Page # 这是一个指向首页的卡片链接。
+      - Type: Page
+        URL : C43
+      - Type: Page
         URL : /
 ---
 文章链接: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaObjects/CocoaObjects.html#//apple_ref/doc/uid/TP40002974-CH4-SW31
@@ -141,6 +143,11 @@ while (word = [enm nextObject]) {
 {{< /aside >}}
 
 　　Protocol 分为 formal 和 informal 两类。Informal protocol 是 `NSObject` 的 category，因此所有对象都隐含遵守 informal protocol。由于所有的对象都继承了 category 提供的默认实现，对象可以选择性的实现协议规定的方法。实现方法时应保证对 `respondsToSelector:` 消息返回 `true`。调用 informal protocol 定义的方法前应当首先发送 `respondsToSelector:` 消息检查对方是否实现了方法。
+
+
+2.10 Creating a Singleton Instance{#2.10}
+-----------------------------------------
+见[原文](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaObjects/CocoaObjects.html#//apple_ref/doc/uid/TP40002974-CH4-SW32)。
 
 
 ## 修订记录

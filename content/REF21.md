@@ -1,6 +1,6 @@
 ---
-title      : "REF21 Cocoa Fundamentals Guide"
-description: 介绍 Cocoa 的功能、概念、术语、结构和设计模式。
+title      : "Cocoa Fundamentals Guide"
+description: REF21 - 介绍 Cocoa 的功能、概念、术语、结构和设计模式。
 date       : 2022-05-11T11:17:14+08:00
 lastmod    : 2022-05-11T11:17:14+08:00
 

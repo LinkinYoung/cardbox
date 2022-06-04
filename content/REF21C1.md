@@ -1,6 +1,6 @@
 ---
-title      : "REF21C1 What is Cocoa?"
-description: 介绍 Cocoa 的功能、框架和开发环境。
+title      : "What is Cocoa?"
+description: REF21C1 - 介绍 Cocoa 的功能、框架和开发环境。
 date       : 2022-05-11T14:54:52+08:00
 lastmod    : 2022-05-12T13:31:51+08:00
 
