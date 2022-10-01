@@ -2,6 +2,7 @@ baseURL      : "https://example.org/"
 languageCode : zh-cn
 title        : 卡片盒
 theme        : CardBox
+copyright    : "杨林青 https://github.com/Yang-Linqing"
 
 markup:
   _merge: deep
