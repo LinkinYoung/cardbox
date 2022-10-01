@@ -20,6 +20,8 @@ Sections:
     Links:
     - Type: Page
       URL : C2
+    - Type: Page
+      URL : C56
     - Type: URL
       URL : https://github.com/Yang-Linqing/HUGO-CardBox
       Title: HUGO-CardBox
@@ -32,7 +34,12 @@ Sections:
 　　菜鸡一个，大部分卡片是读书笔记。
 
 ## 修订记录
-### 2022-06-04T16:54:02+08:00
-* 将卡片编号由标题移至卡片简介中。
-### 2022-05-10T14:59:38+08:00
+
+2022-05-10T14:59:38+08:00
 * 创建
+
+2022-06-04T16:54:02+08:00
+* 将卡片编号由标题移至卡片简介中。
+
+2022-10-01T18:09:02+0800
+* 使用 GitHub Action 直接编译和部署。
