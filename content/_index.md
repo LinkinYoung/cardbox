@@ -21,7 +21,7 @@ Sections:
     - Type: Page
       URL : C2
     - Type: URL
-      URL : https://github.com/LinkinYoung/HUGO-CardBox
+      URL : https://github.com/Yang-Linqing/HUGO-CardBox
       Title: HUGO-CardBox
       Description: 我的卡片盒 HUGO 主题。
       ContentType: 链接
