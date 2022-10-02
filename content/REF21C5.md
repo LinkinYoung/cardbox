@@ -1,11 +1,10 @@
 ---
-title      : "REF21C5 Communicating with Objects"
+title      : "Communicating with Objects"
 description: 介绍 Cocoa 对象之间的编程接口和通信机制，包活代理、通知和绑定。
 date       : 2022-05-11T14:55:54+08:00
 lastmod    : 2022-05-11T14:56:00+08:00
 draft      : true
 
-ContentType: 章节 # 可选值：图书、章节、指南、手册、页面、文章
 Sections:
   - Title: 相关内容
     Groups:
