@@ -6,7 +6,7 @@ lastmod    : 2022-05-11T14:55:45+08:00
 draft      : true
 
 Sections:
-  - Title: 相关内容
+  - Title: 链接区域
     Groups:
     - Title: 下一页
       Links:
@@ -20,7 +20,7 @@ Sections:
       Links:
       - Type: Page # 这是一个指向首页的卡片链接。
         URL : REF21
-    - Title: 卡片和链接
+    - Title: 索引
       Links:
       - Type: Page # 这是一个指向首页的卡片链接。
         URL : /

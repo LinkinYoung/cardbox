@@ -5,7 +5,7 @@ date       : 2022-05-11T11:17:14+08:00
 lastmod    : 2022-05-11T11:17:14+08:00
 
 Sections:
-  - Title: 相关内容
+  - Title: 链接区域
     Groups:
     - Title: 本书章节
       Links:
@@ -19,7 +19,7 @@ Sections:
         URL : REF21C4
       - Type: Page
         URL : REF21C5
-    - Title: 卡片和链接
+    - Title: 索引
       Links:
       - Type: Page # 这是一个指向首页的卡片链接。
         URL : /

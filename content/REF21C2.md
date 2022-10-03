@@ -5,7 +5,7 @@ date       : 2022-05-12T16:10:13+08:00
 lastmod    : 2022-05-12T18:42:04+08:00
 
 Sections:
-  - Title: 相关内容
+  - Title: 链接区域
     Groups:
     - Title: 下一页
       Links:
@@ -19,7 +19,7 @@ Sections:
       Links:
       - Type: Page
         URL : REF21
-    - Title: 卡片和链接
+    - Title: 索引
       Links:
       - Type: Page
         URL : C43
