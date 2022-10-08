@@ -7,6 +7,10 @@ lastmod    : 2022-10-03T15:12:05+08:00
 Sections:
   - Title: 链接区域
     Groups:
+    - Title: 相关内容
+      Links:
+      - Type: Page
+        URL : REF22
     - Title: 索引
       Links:
       - Type: Page
