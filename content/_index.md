@@ -7,10 +7,10 @@ lastmod    : 2022-05-10T14:59:38+08:00
 Sections:
 - Title: 索引
   Groups:
-  # - Title: 常用技巧
-  #   Links:
-  #   - Type: Page
-  #     URL : C31
+  - Title: 常用技巧
+    Links:
+    - Type: Page
+      URL : C31
   - Title: 系统管理
     Links:
     - Type: Page
@@ -21,6 +21,8 @@ Sections:
       URL : REF5
     - Type: Page
       URL : C38
+    - Type: Page
+      URL : C59
   - Title: 开发
     Links:
     - Type: Page
