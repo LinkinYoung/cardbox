@@ -12,6 +12,10 @@ Sections:
       Links:
       - Type: Page
         URL : LeetCode142
+    - Title: 索引
+      Links:
+      - Type: Page
+        URL : LeetCode0
 ---
 题目链接: https://leetcode-cn.com/problems/linked-list-cycle/
 

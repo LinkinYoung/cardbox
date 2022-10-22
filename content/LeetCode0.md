@@ -21,6 +21,14 @@ Sections:
         URL : LeetCode141
       - Type: Page
         URL : LeetCode142
+    - Title: 栈和队列
+      Links:
+      - Type: Page
+        URL : LeetCode901
+    - Title: 滑动窗口
+      Links:
+      - Type: Page
+        URL : LeetCode904
     - Title: 索引
       Links:
       - Type: Page

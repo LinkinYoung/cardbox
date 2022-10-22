@@ -4,7 +4,13 @@ description: 将数组原地向右移动 k 个位置。k 是非负数。
 date       : 2022-05-10T16:42:53+08:00
 lastmod    : 2022-05-10T16:42:53+08:00
 
-ContentType: 卡片 # 可选值：图书、章节、指南、手册、页面、文章
+Sections:
+  - Title: 链接区域
+    Groups:
+    - Title: 索引
+      Links:
+      - Type: Page
+        URL : LeetCode0
 ---
 
 题目链接: https://leetcode.cn/problems/rotate-array/

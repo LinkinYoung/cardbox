@@ -4,7 +4,13 @@ description: 判断一个 9x9 的数独是否有效。只要每一行、每一�
 date       : 2022-04-25T00:00:00+08:00
 lastmod    : 2022-05-10T16:19:27+08:00
 
-ContentType: 卡片 # 可选值：图书、章节、指南、手册、页面、文章
+Sections:
+  - Title: 链接区域
+    Groups:
+    - Title: 索引
+      Links:
+      - Type: Page
+        URL : LeetCode0
 ---
 
 题目链接: https://leetcode.cn/problems/valid-sudoku/
