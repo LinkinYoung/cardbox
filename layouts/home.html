@@ -1,3 +1,25 @@
+{{ define "metatitle" }}
+{{- .Site.Title -}}
+{{ end }}
+
+{{ define "recents" }}
+<section>
+    <h2>近期更新</h2>
+    <kb:topic>
+        <h3>卡片</h3>
+        <ul>
+        {{ range first 5 (
+            sort (
+                where .Site.Pages "Kind" "in" "page section"
+            ) "Lastmod" "desc"
+        ) }}
+            {{ partial "topiclink/Page.html" . }}
+        {{ end }}
+        </ul>
+    </kb:topic>
+</section>
+{{ end }}
+
 {{ define "scripts" }}
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "6feae673eec449348b6599ef9d825a44"}'></script><!-- End Cloudflare Web Analytics -->
 {{ end }}
