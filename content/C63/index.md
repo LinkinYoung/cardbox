@@ -6,6 +6,9 @@ RevisionHistory:
 - Date: &ModDate 2022-11-23T10:34:05+08:00
   Mods:
   - 创建。
+- Date: &ModDate 2022-11-23T19:35:33+0800
+  Mods:
+  - 更正：第一段改为 “……快捷指令提供 URL Scheme 功能……”，原为 “……备忘录提供 URL Scheme 功能……”。
 lastmod: *ModDate
 
 Sections:
@@ -27,7 +30,7 @@ Sections:
 标题带有空格的备忘录无法打开。见下文 “问题”。
 {{</aside>}}
 
-　　苹果备忘录不能在不共享的情况下创建备忘录链接，但是备忘录提供 URL Scheme 功能，可以通过构造一个 URL 运行特定快捷指令并传入参数。
+　　苹果备忘录不能在不共享的情况下创建备忘录链接，但是快捷指令提供 URL Scheme 功能，可以通过构造一个 URL 运行特定快捷指令并传入参数。
 
 ## 快捷指令 URL Scheme
 　　快捷指令 URL Scheme 格式如下：
