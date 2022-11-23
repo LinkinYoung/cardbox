@@ -2,7 +2,23 @@
 title      : 卡片盒
 description: 我的公开卡片盒，使用 HUGO 构建。
 date       : 2022-05-10T14:59:38+08:00
-lastmod    : 2022-05-10T14:59:38+08:00
+RevisionHistory:
+- Date: &ModDate 2022-05-10T14:59:38+08:00
+  Mods:
+  - 创建。
+- Date: &ModDate 2022-06-04T16:54:02+08:00
+  Mods:
+  - 将卡片编号由标题移至卡片简介中。
+- Date: &ModDate 2022-10-01T18:09:02+0800
+  Mods:
+  - 使用 GitHub Action 直接编译和部署。
+- Date: &ModDate 2022-10-02T12:15:45+0800
+  Mods:
+  - 移除卡片类型和图标支持，该用编号系统表示类型。
+- Date: &ModDate 2022-11-22T16:55:50+0800
+  Mods:
+  - 将修订记录移至页面 front matter。
+lastmod: *ModDate
 
 Sections:
 - Title: 索引
@@ -25,6 +41,12 @@ Sections:
       URL : C59
     - Type: Page
       URL : C60
+    - Type: Page
+      URL : REF25
+    - Type: Page
+      URL : C61
+    - Type: Page
+      URL : C62
   - Title: 开发
     Links:
     - Type: Page
@@ -77,17 +99,3 @@ Sections:
 ## 说明
 　　这里是卡片盒的顶级入口。所有内容都可以从这里一层层深入找到，见《[C4 - 使用索引卡片组织主题层级]({{<relref C4>}})》。每张卡片都可能有不止一条访问路径，但是他们的 URL 是唯一的。
 　　菜鸡一个，大部分卡片是读书笔记。
-
-## 修订记录
-
-2022-05-10T14:59:38+08:00
-* 创建
-
-2022-06-04T16:54:02+08:00
-* 将卡片编号由标题移至卡片简介中。
-
-2022-10-01T18:09:02+0800
-* 使用 GitHub Action 直接编译和部署。
-
-2022-10-02T12:15:45+0800
-* 移除卡片类型和图标支持，该用编号系统表示类型。
