@@ -88,6 +88,8 @@ Sections:
     - Type: Page
       URL : REF22
     - Type: Page
+      URL : C63
+    - Type: Page
       URL : C56
     - Type: URL
       URL : https://github.com/Yang-Linqing/HUGO-CardBox
