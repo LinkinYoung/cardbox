@@ -3,7 +3,6 @@ title      : "Communicating with Objects"
 description: 介绍 Cocoa 对象之间的编程接口和通信机制，包活代理、通知和绑定。
 date       : 2022-05-11T14:55:54+08:00
 lastmod    : 2022-05-11T14:56:00+08:00
-draft      : true
 
 Sections:
   - Title: 链接区域

@@ -3,7 +3,6 @@ title      : "Adding Behavior to a Cocoa Program"
 description: 描述如何使用 Cocoa 框架编写程序，如何创建子类。
 date       : 2022-05-11T14:55:25+08:00
 lastmod    : 2022-05-11T14:55:31+08:00
-draft      : true
 
 Sections:
   - Title: 链接区域

@@ -27,6 +27,12 @@ Sections:
     Links:
     - Type: Page
       URL : C31
+    - Type: Page
+      URL : C66
+    - Type       : URL
+      URL        : https://zhuanlan.zhihu.com/p/110756681
+      Title      : LaTex 数学公式速查表
+      Description: 知乎专栏文章。
   - Title: 系统管理
     Links:
     - Type: Page
@@ -44,7 +50,7 @@ Sections:
     - Type: Page
       URL : REF25
     - Type: Page
-      URL : C61
+      URL : C65
     - Type: Page
       URL : C62
   - Title: 开发
@@ -81,12 +87,16 @@ Sections:
       URL : C38
     - Type: Page
       URL : LeetCode0
+    - Type: Page
+      URL : C67
   - Title: 知识管理
     Links:
     - Type: Page
       URL : C5
     - Type: Page
       URL : REF22
+    - Type: Page
+      URL : REF30
     - Type: Page
       URL : C63
     - Type: Page

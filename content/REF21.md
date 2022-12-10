@@ -21,7 +21,7 @@ Sections:
         URL : REF21C5
     - Title: 索引
       Links:
-      - Type: Page # 这是一个指向首页的卡片链接。
+      - Type: Page
         URL : /
 ---
 

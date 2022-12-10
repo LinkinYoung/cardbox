@@ -3,7 +3,6 @@ title      : "Cocoa Design Patterns"
 description: 介绍 Cocoa 采用的设计模式，特别是 MVC 和对象模型。
 date       : 2022-05-11T14:55:39+08:00
 lastmod    : 2022-05-11T14:55:45+08:00
-draft      : true
 
 Sections:
   - Title: 链接区域
